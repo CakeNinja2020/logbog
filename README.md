@@ -33,7 +33,7 @@ Vi snakkede også om koder, og hvor nemme de er at finde ud af med de rigtige v�
 
 https://informatik.systime.dk/?id=528
 
-## Programmering :computer: :desktop_computer:
+## Programmering :computer:
 
 I dette emne lejede vi rundt med arduinoer, og lærte hvordan man programmere dem. Dette gjorde vi ved at forbinde en accelerometer til vores pc, og ved hjælp af et program få noget output. :floppy_disk:
 
@@ -50,5 +50,12 @@ Derefter lavede vi et blokdiagram på hvordan vi forventer vores system kommer t
 
 Efter det har vi arbejdet på at lave forbindelsen mellem de forskellige enheder og at sørge for computeren opfatter hvilken tast der bliver trådt på.
 
-Vi har også kigget på hvordan vi kan lave det så bruger-venligt som muligt. Dette har vi bl.a. gjordt ved at lave ikoner til de forskellige taster. Vi har også tænkt ogs at tilføje noget lyd, som forklarer hvad det er for en du trykker på. Altså når man trykker på fremad knappen, så er der en stemme som siger:"fremad!". :speaker:
+Vi har også kigget på hvordan vi kan lave det så bruger-venligt som muligt. Dette har vi bl.a. gjordt ved at lave ikoner til de forskellige taster. Vi har også tænkt ogs at tilføje noget lyd, som forklarer hvad det er for en du trykker på. Altså når man trykker på fremad knappen, så er der en stemme som siger:"fremad!". :loud_sound:
+
+## Webtek :desktop_computer:
+
+Under webtek lærte vi om hvordan servers fungerer, kig på linket for mere info hvis nødvendigt.
+
+https://informatik.systime.dk/?id=744
+
 
