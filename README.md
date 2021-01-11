@@ -1,4 +1,4 @@
-# logbog :grinning: :notebook_with_decorative_cover: :round_pushpin: :copyright: :registered: :tm: :denmark: :faroe_islands:
+# logbog :grinning: :notebook_with_decorative_cover: :round_pushpin: :copyright: :registered:
 
 Logbog til informatik, vedrørende de forskellige projekter og emner vi har været igennem. :raised_eyebrow:
 
@@ -14,3 +14,11 @@ Efter at havde designet objekterne i Fusion 360, skulle vi overføre dem til Cur
 ## Systemdesign :paperclip:
 Her analyseret vi Tello dronen's system. Vi kiggede på 3-lags-modellen, og brugte flowcharts og blokdiagrammer til at visuellere systemet.
 ![blokdiagram](https://cdn.discordapp.com/attachments/795551757634633759/798139329670807552/unknown.png)
+
+Vi analyserede også app'en som jo var en del af systemet.
+![yeh](https://cdn.discordapp.com/attachments/795551757634633759/798141199923806209/unknown.png
+
+I 3-lags modellen analyserer man data, logik og præs. :white_check_mark:
+![3lags](https://cdn.discordapp.com/attachments/795551757634633759/798141502952964116/unknown.png)
+
+## Sikkerhed og privathed
