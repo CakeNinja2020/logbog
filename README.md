@@ -1,4 +1,4 @@
-# logbog :grinning: :notebook_with_decorative_cover: :round_pushpin: :copyright: :registered: :pirate_flag:
+# logbog :grinning: :notebook_with_decorative_cover: :round_pushpin:
 
 Logbog til informatik, vedrørende de forskellige projekter og emner vi har været igennem. :raised_eyebrow:
 
@@ -19,7 +19,7 @@ Her analyseret vi Tello dronen's system. Vi kiggede på 3-lags-modellen, og brug
 
 Vi analyserede også app'en som jo var en del af systemet. :iphone:
 
-![yeh](https://cdn.discordapp.com/attachments/795551757634633759/798141199923806209/unknown.png
+![yeh](https://cdn.discordapp.com/attachments/795551757634633759/798141199923806209/unknown.png)
 
 I 3-lags modellen analyserer man data, logik og præs. :white_check_mark:
 
@@ -37,7 +37,7 @@ https://informatik.systime.dk/?id=528
 
 I dette emne lejede vi rundt med arduinoer, og lærte hvordan man programmere dem. Dette gjorde vi ved at forbinde en accelerometer til vores pc, og ved hjælp af et program få noget output. :floppy_disk:
 
-## Projekt Dronecontroller.
+## Projekt Dronecontroller :helicopter: :control_knobs: :radio:
 
 Dette var vores største projekt i Informatik. Efter at havde analyseret systemet af Tello-dronen var vores opgave at lave en controller der kan forbinde med det system og dermed controllere dronen. Vi startede med at brainstorme om hvad vores gruppe kunne bruge som controller: :orange_circle:
 
@@ -57,5 +57,10 @@ Vi har også kigget på hvordan vi kan lave det så bruger-venligt som muligt. D
 Under webtek lærte vi om hvordan servers fungerer, kig på linket for mere info hvis nødvendigt.
 
 https://informatik.systime.dk/?id=744
+
+## Næste Projekt:
+
+:avocado:
+
 
 
