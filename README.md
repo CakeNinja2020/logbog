@@ -37,6 +37,8 @@ https://informatik.systime.dk/?id=528
 
 I dette emne lejede vi rundt med arduinoer, og lærte hvordan man programmere dem. Dette gjorde vi ved at forbinde en accelerometer til vores pc, og ved hjælp af et program få noget output. :floppy_disk:
 
+![lortet](https://cdn.discordapp.com/attachments/795551757634633759/798149051744518215/unknown.png)
+
 ## Projekt Dronecontroller :helicopter: :control_knobs: :radio:
 
 Dette var vores største projekt i Informatik. Efter at havde analyseret systemet af Tello-dronen var vores opgave at lave en controller der kan forbinde med det system og dermed controllere dronen. Vi startede med at brainstorme om hvad vores gruppe kunne bruge som controller: :orange_circle:
