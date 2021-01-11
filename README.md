@@ -12,7 +12,7 @@ Her startede vi med at lære Fusion 360. Da vi var lidt bekendt med programmets 
 Samtidig skulle de alle havde en hvis rumfang. 
 Efter at havde designet objekterne i Fusion 360, skulle vi overføre dem til Cura, et program som gører det muligt for en 3d printer at printe sit objekt.
 
-## Systemdesign :paperclip:
+## Systemdesign :paperclip: :open_file_folder:
 
 Her analyseret vi Tello dronen's system. Vi kiggede på 3-lags-modellen, og brugte flowcharts og blokdiagrammer til at visuellere systemet.
 ![blokdiagram](https://cdn.discordapp.com/attachments/795551757634633759/798139329670807552/unknown.png)
@@ -25,7 +25,7 @@ I 3-lags modellen analyserer man data, logik og præs. :white_check_mark:
 
 ![3lags](https://cdn.discordapp.com/attachments/795551757634633759/798141502952964116/unknown.png)
 
-## Sikkerhed og privathed :satellite:
+## Sikkerhed og privathed :satellite: :clipboard:
 
 Vi startede ud med at se Snowden, en film. :movie_camera: 
 I dette emne diskuterede og debaterede vi om privacy, om hvor meget vi selv gør for at undgå at vores oplysninger bliver hapset osv.
