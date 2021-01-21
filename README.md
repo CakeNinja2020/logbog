@@ -64,5 +64,14 @@ https://informatik.systime.dk/?id=744
 
 :avocado:
 
+| Datatype          | forventning | rigtigt/forkert |
+|-------------------|-------------|-----------------|
+| race              | Føls        | Rigtigt         |
+| Økonomi           | Føls        | Forkert         |
+| Navn              | Alm         | Rigtigt         |
+| Etnisk oprindelse | Føls        | Rigtigt         |
+| Religion          | Føls        | Rigtigt         |
+| Adresse           | Alm         | Rigtigt         |
+| Fødselsdato       | Alm         | Rigtigt         |
 
 
