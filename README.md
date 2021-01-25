@@ -31,6 +31,7 @@ Vi startede ud med at se Snowden, en film. :movie_camera:
 I dette emne diskuterede og debaterede vi om privacy, om hvor meget vi selv gør for at undgå at vores oplysninger bliver hapset osv.
 Vi snakkede også om koder, og hvor nemme de er at finde ud af med de rigtige værktøjer. Og til sidst snakkede vi om VPN, og hvordan det fungerer. :world_map:
 
+http://iftek.dk/reklamespil-malgruppe-og-spillertyper
 https://informatik.systime.dk/?id=528
 
 ## Programmering :computer:
